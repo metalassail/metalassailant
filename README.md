@@ -19,16 +19,6 @@ My structured learning path from Network Engineering to DevOps Engineering.
 
 🔗 https://github.com/metalassail/devops-learning-journey
 
-Python Practice Code
-Python exercises, scripts, and mini-projects.
-
-🔗 https://github.com/metalassail/Python_Practice_code
-
-CKA Preparation
-Notes, labs, and Kubernetes practice.
-
-🔗 https://github.com/metalassail/CKA-2024
-
 📚 Current Focus
 Python Crash Course
 KodeKloud DevOps Learning Path
